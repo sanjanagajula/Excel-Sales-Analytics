@@ -24,7 +24,7 @@ Spot trends, monitor progress, and stay aligned with key sales goals (KPIs).
 
 ## 🔹 Project Objective
 
-1. Built Profit and Loss (P&L) reports by [_Fiscal Year_](https://github.com/sanjanagajula/Excel-Sales-Analytics/blob/main/P%26L%20Statement%20by%20Fiscal%20Year.pdf) and [_Months_](https://github.com/sanjanagajula/Excel-Sales-Analytics/blob/main/P%26L%20Statement%20by%20Monthly.pdf) to evaluate business profitability over time.
+1. Built Profit and Loss (P&L) reports by [_Fiscal Year_](https://github.com/sanjanagajula/Excel-Sales-Analytics/blob/main/P%20%26%20L%20statement%20by%20Fiscal%20Years.pdf) and [_Months_](https://github.com/sanjanagajula/Excel-Sales-Analytics/blob/main/P%26L%20Statement%20by%20Monthly.pdf) to evaluate business profitability over time.
 
 ## 🔹 Purpose of Financial Analytics
 Understand business performance, support decision-making, and communicate financial health clearly to stakeholders.
